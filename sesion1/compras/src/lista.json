@@ -1,0 +1,7 @@
+[
+  { "id": 1, "item": "Leche", "cantidad": 2 },
+  { "id": 2, "item": "Pan", "cantidad": 5 },
+  { "id": 3, "item": "Huevos", "cantidad": 25 },
+  { "id": 4, "item": "Queso", "cantidad": 1 },
+  { "id": 5, "item": "Frutas", "cantidad": 8 }
+]
